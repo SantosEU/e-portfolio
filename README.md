@@ -18,4 +18,4 @@ a portfolio for my history of projects and recent work
 
 
 <h2>Link</h2>
-[]
+[https://santoseu.github.io/e-portfolio/]
